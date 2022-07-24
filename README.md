@@ -9,15 +9,15 @@
 
 ## 📊 Github Status
 
-<p><img src="https://metrics.lecoq.io/aniket1560"><p>
+<p><img src="https://metrics.lecoq.io/Abhijeet-Ranjan8197"><p>
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=aniket1560"><p>
+<p><img src="https://activity-graph.herokuapp.com/graph?username=Abhijeet-Ranjan8197"><p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=aniket1560&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues"><p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Abhijeet-Ranjan8197&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues"><p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket1560"><p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijeet-Ranjan8197"><p>
 
 ## 🏆 GitHub Trophies
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=aniket1560">
+<p><img src="https://github-profile-trophy.vercel.app/?username=Abhijeet-Ranjan8197">
 </p>
